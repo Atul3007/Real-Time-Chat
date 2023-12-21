@@ -8,9 +8,12 @@ Simple Interface: User-friendly interface with easy-to-use features.
 User Identification: Users are identified by their chosen name, allowing for a personalized chat experience.
 
 ## Screenshots
+User
+[Screenshot (25)]
+[Screenshot (26)]
+![Chat Interface](screenshots/Screenshot (26).png)
 [Screenshot (28)](https://github.com/Atul3007/Real-Time-Chat/assets/112753897/5de2d5fb-442a-4342-9f21-a55257235214)
 .png)
-
 ## Prerequisites
 * Node.js installed on your machine.
 * Internet browser (Chrome, Firefox, Safari, etc.) for accessing the chat application.
