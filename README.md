@@ -9,7 +9,10 @@ User Identification: Users are identified by their chosen name, allowing for a p
 
 ## Screenshots
 
-(screenshots/![Screenshot (28)](https://github.com/Atul3007/Real-Time-Chat/assets/112753897/5de2d5fb-442a-4342-9f21-a55257235214)
+[Screenshot (25)]
+[Screenshot (26)]
+[Screenshot (27)]
+[Screenshot (28)](https://github.com/Atul3007/Real-Time-Chat/assets/112753897/5de2d5fb-442a-4342-9f21-a55257235214)
 .png)
 
 ## Prerequisites
