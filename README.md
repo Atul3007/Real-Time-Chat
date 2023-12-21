@@ -8,7 +8,7 @@ Simple Interface: User-friendly interface with easy-to-use features.
 User Identification: Users are identified by their chosen name, allowing for a personalized chat experience.
 
 ## Screenshots
-![Login Page](screenshots/Screenshot%20(26).png)
+![Login Page](screenshots/Screenshot(26).png)
 ## Prerequisites
 * Node.js installed on your machine.
 * Internet browser (Chrome, Firefox, Safari, etc.) for accessing the chat application.
