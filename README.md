@@ -9,11 +9,15 @@ User Identification: Users are identified by their chosen name, allowing for a p
 
 ## Screenshots
 
-[Screenshot (25)]
-[Screenshot (26)]
-[Screenshot (27)]
-[Screenshot (28)](https://github.com/Atul3007/Real-Time-Chat/assets/112753897/5de2d5fb-442a-4342-9f21-a55257235214)
-.png)
+
+![Login Page](screenshots/Screenshot%20(25).png)
+*Caption: The login page where users can enter their name and choose a group.*
+
+![Chat Interface](screenshots/Screenshot%20(26).png)
+*Caption: The chat interface where users can communicate in real-time within their chosen group.*
+
+[![Chat Interface](screenshots/Screenshot%20(28).png)](https://github.com/Atul3007/Real-Time-Chat/assets/112753897/5de2d5fb-442a-4342-9f21-a55257235214.png)
+*Caption: Click the image to view a larger version.*
 
 ## Prerequisites
 * Node.js installed on your machine.
